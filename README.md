@@ -157,13 +157,12 @@ Benefits
 Periscope - How it works
 
   Configures/monitors alarms in Ambari
-  Manages alarm, cooldown periods
+  Manages alarms, cooldown periods
   Manages cluster sizes
   Allow to associate SLA scaling policies to alarms
   Instructs Cloudbreak to up/downscale the cluster
 
 Future plans
 
-  Leverage YARN as a datacenter scheduler
   Apache Slider - run any app on YARN
   
