@@ -11,7 +11,7 @@ Full Hadoop stack provisioning - everywhere
 Automate and unify the process
 Zero-configuration approach
 Same process through a cluster lifecycle (Dev, QA, UAT, Prod)
-Provide tooling - UI, REST API and CLI/shell
+Provide tooling - UI, REST API and CLI/shell (OAuth2)
 Secure and multi-tenant
 SLA policy based autoscaling
 
